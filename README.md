@@ -1,5 +1,5 @@
 # Real-Time End-to-End Streaming with Kafka and Spark
-A real-time end-to-end weather data streaming piplelien in integration with Kafka and Spark Streaming for the City of Toronto. 
+A real-time end-to-end weather data streaming pipeline in integration with Kafka and Spark Streaming for the City of Toronto. 
 
 Pandas and Plotly library are used for the analysis and visualization of weather data.
 
