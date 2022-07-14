@@ -9,7 +9,7 @@ producer=KafkaProducer(bootstrap_servers=['localhost:9092'],
                     
 
 # Enter your API key here
-api_key ="0a66e1a920f80830fa52d4e53937cb69"
+api_key ="yourapikey"
  
 # base_url variable to store url
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
