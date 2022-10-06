@@ -37,5 +37,5 @@ http://host.docker.internal:4040/jobs/
 
 ```
 
-
+![My Image](weather.png)
 
