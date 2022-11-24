@@ -1,6 +1,5 @@
 # Real-Time End-to-End Streaming with Kafka and Spark
-A real-time end-to-end weather data streaming pipeline in integration with Kafka and Spark Streaming for the City of Toronto. 
-
+This project is about building a real-time end-to-end weather data streaming pipeline with Kafka and Spark Streaming for the City of Toronto. The weather data from OpenWeatherMap website is ingested from Kafka, the received message from prodcucer is processed by Spark Streaming. Finally, processed data is stored as a csv file in the local system. Apache Kafka is a distributed streaming platform and is used to build real-time streaming data pipelines and real-time streaming applications. OpenWeatherMap is a service that provides weather data, this API allows to retrieve the current weather data for the city of Toronto . Spark Streaming is an extension to the Spark core API that enables data engineers and data scientists to process real-time data.
 Pandas and Plotly library are used for the analysis and visualization of weather data.
 
 ## Start the Kafka environment in windows
@@ -36,6 +35,7 @@ The web interface of a running Spark application to monitor and inspect Spark jo
 http://host.docker.internal:4040/jobs/
 
 ```
+</br>
+<img src="weather.png"  height="400"/>
 
-![My Image](weather.png)
 
